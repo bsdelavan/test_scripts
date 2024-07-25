@@ -1,0 +1,73 @@
+Dummy_Patient_ID,First_Name,Last Name,County,Date of Birth,Gender,Race,Ethnicity,Birth Country,Dummy_Date_Ordered,Date_Arrived_In_US,Year_Arrived_in_US,Test_Description,Display_Value
+215,Grace,Johnson,Pulaski,2/12/1995,Female,Caucasian / White,Not Hispanic or Latino,United States,3/18/2008,,,Treatment_Reasons,Latent TB Infection
+315,Caleb,Smith,Benton,8/3/1988,Male,African American / Black,Hispanic or Latino,El Salvador,11/28/2008,23-Dec,1977,Treatment_Reasons,Latent TB Infection
+315,Caleb,Smith,Benton,8/3/1988,Male,African American / Black,Hispanic or Latino,El Salvador,12/5/2008,,1977,Treatment_Reasons,Latent TB Infection
+315,Caleb,Smith,Benton,8/3/1988,Male,African American / Black,Hispanic or Latino,El Salvador,12/12/2008,,1977,Treatment_Reasons,Latent TB Infection
+315,Caleb,Smith,Benton,8/3/1988,Male,African American / Black,Hispanic or Latino,El Salvador,12/19/2008,,1977,Treatment_Reasons,Latent TB Infection
+315,Caleb,Smith,Benton,8/3/1988,Male,African American / Black,Hispanic or Latino,El Salvador,12/26/2008,,1977,Treatment_Reasons,Latent TB Infection
+315,Caleb,Smith,Benton,8/3/1988,Male,African American / Black,Hispanic or Latino,El Salvador,1/2/2009,,1977,Treatment_Reasons,Latent TB Infection
+415,Zoe,Brown,Craighead,11/25/1992,Female,Asian,Not Hispanic or Latino,United States,8/13/2001,,,Treatment_Reasons,Latent TB Infection
+515,Isaac,Taylor,Faulkner,4/17/1981,Male,Caucasian / White,Not Hispanic or Latino,United States,10/27/2009,,,Treatment_Reasons,Latent TB Infection
+615,Lily,White,Sebastian,9/22/1996,Female,Marshallese,Hispanic or Latino,Philippines,6/13/2003,24-Nov,1985,Treatment_Reasons,Latent TB Infection
+715,Nathan,Harris,Washington,1/30/1987,Male,African American / Black,Not Hispanic or Latino,United States,2/10/2003,,,Treatment_Reasons,Latent TB Infection
+815,Ruby,Wilson,Lee,6/14/1994,Female,Caucasian / White,Hispanic or Latino,El Salvador,12/18/2000,2-Sep,1991,Treatment_Reasons,Latent TB Infection
+915,Samuel,Garcia,Saline,3/5/1983,Male,Asian,Not Hispanic or Latino,United States,12/7/2007,,,Treatment_Reasons,Latent TB Infection
+915,Samuel,Garcia,Saline,3/5/1983,Male,Asian,Not Hispanic or Latino,United States,12/14/2007,,,Treatment_Reasons,Latent TB Infection
+1015,Chloe,Martinez,Greene,5/28/1991,Female,African American / Black,Not Hispanic or Latino,Canada,12/22/2009,16-Jun,1971,Treatment_Reasons,Latent TB Infection
+1015,Chloe,Martinez,Greene,5/28/1991,Female,African American / Black,Not Hispanic or Latino,Canada,12/29/2009,,1971,Treatment_Reasons,Latent TB Infection
+1015,Chloe,Martinez,Greene,5/28/1991,Female,African American / Black,Not Hispanic or Latino,Canada,1/5/2010,,1971,Treatment_Reasons,Latent TB Infection
+1015,Chloe,Martinez,Greene,5/28/1991,Female,African American / Black,Not Hispanic or Latino,Canada,1/12/2010,,1971,Treatment_Reasons,Latent TB Infection
+1015,Chloe,Martinez,Greene,5/28/1991,Female,African American / Black,Not Hispanic or Latino,Canada,1/19/2010,,1971,Treatment_Reasons,Latent TB Infection
+1015,Chloe,Martinez,Greene,5/28/1991,Female,African American / Black,Not Hispanic or Latino,Canada,1/26/2010,,1971,Treatment_Reasons,Latent TB Infection
+1015,Chloe,Martinez,Greene,5/28/1991,Female,African American / Black,Not Hispanic or Latino,Canada,2/2/2010,,1971,Treatment_Reasons,Latent TB Infection
+1015,Chloe,Martinez,Greene,5/28/1991,Female,African American / Black,Not Hispanic or Latino,Canada,2/9/2010,,1971,Treatment_Reasons,Latent TB Infection
+1015,Chloe,Martinez,Greene,5/28/1991,Female,African American / Black,Not Hispanic or Latino,Canada,2/16/2010,,1971,Treatment_Reasons,Latent TB Infection
+1015,Chloe,Martinez,Greene,5/28/1991,Female,African American / Black,Not Hispanic or Latino,Canada,2/23/2010,,1971,Treatment_Reasons,Latent TB Infection
+1015,Chloe,Martinez,Greene,5/28/1991,Female,African American / Black,Not Hispanic or Latino,Canada,3/2/2010,,1971,Treatment_Reasons,Latent TB Infection
+1015,Chloe,Martinez,Greene,5/28/1991,Female,African American / Black,Not Hispanic or Latino,Canada,3/9/2010,,1971,Treatment_Reasons,Latent TB Infection
+1015,Chloe,Martinez,Greene,5/28/1991,Female,African American / Black,Not Hispanic or Latino,Canada,3/16/2010,,1971,Treatment_Reasons,Latent TB Infection
+1025,Jackson,Thompson,Crittenden,12/18/1985,Male,Caucasian / White,Not Hispanic or Latino,United States,12/20/2005,,,Treatment_Reasons,Latent TB Infection
+1025,Jackson,Thompson,Crittenden,12/18/1985,Male,Caucasian / White,Not Hispanic or Latino,United States,12/27/2005,,,Treatment_Reasons,Latent TB Infection
+1025,Jackson,Thompson,Crittenden,12/18/1985,Male,Caucasian / White,Not Hispanic or Latino,United States,1/3/2006,,,Treatment_Reasons,Latent TB Infection
+1025,Jackson,Thompson,Crittenden,12/18/1985,Male,Caucasian / White,Not Hispanic or Latino,United States,1/10/2006,,,Treatment_Reasons,Latent TB Infection
+1025,Jackson,Thompson,Crittenden,12/18/1985,Male,Caucasian / White,Not Hispanic or Latino,United States,1/17/2006,,,Treatment_Reasons,Latent TB Infection
+1035,Ella,Miller,Lonoke,7/9/1990,Female,Marshallese,Hispanic or Latino,United States,12/5/2003,,,Treatment_Reasons,Latent TB Infection
+1035,Ella,Miller,Lonoke,7/9/1990,Female,Marshallese,Hispanic or Latino,United States,12/12/2003,,,Treatment_Reasons,Latent TB Infection
+1035,Ella,Miller,Lonoke,7/9/1990,Female,Marshallese,Hispanic or Latino,United States,12/19/2003,,,Treatment_Reasons,Latent TB Infection
+1035,Ella,Miller,Lonoke,7/9/1990,Female,Marshallese,Hispanic or Latino,United States,12/26/2003,,,Treatment_Reasons,Latent TB Infection
+1045,Aiden,Anderson,White,10/16/1989,Male,Asian,Not Hispanic or Latino,Mexico,9/28/2003,6-Aug,1981,Treatment_Reasons,Latent TB Infection
+1055,Scarlett,Clark,Logan,2/21/1993,Female,Caucasian / White,Hispanic or Latino,United States,9/24/2004,,,Treatment_Reasons,Latent TB Infection
+1065,Leo,Adams,Chicot,11/10/1980,Male,African American / Black,Not Hispanic or Latino,United States,10/1/2004,,,Treatment_Reasons,Latent TB Infection
+1065,Leo,Adams,Chicot,11/10/1980,Male,African American / Black,Not Hispanic or Latino,United States,10/8/2004,,,Treatment_Reasons,Latent TB Infection
+1065,Leo,Adams,Chicot,11/10/1980,Male,African American / Black,Not Hispanic or Latino,United States,10/15/2004,,,Treatment_Reasons,Latent TB Infection
+1065,Leo,Adams,Chicot,11/10/1980,Male,African American / Black,Not Hispanic or Latino,United States,10/22/2004,,,Treatment_Reasons,Latent TB Infection
+1075,Madison,Taylor,Conway,9/4/1997,Female,Marshallese,Not Hispanic or Latino,United States,11/22/2000,,,Treatment_Reasons,Latent TB Infection
+1085,Ethan,Wright,Ashley,5/12/1984,Male,Caucasian / White,Hispanic or Latino,Australia,10/9/2006,17-Nov,1972,Treatment_Reasons,Latent TB Infection
+1095,Sophie,Lewis,Independence,3/20/1996,Female,Asian,Not Hispanic or Latino,United States,3/22/2007,,,Treatment_Reasons,Latent TB Infection
+1095,Sophie,Lewis,Independence,3/20/1996,Female,Asian,Not Hispanic or Latino,United States,3/29/2007,,,Treatment_Reasons,Latent TB Infection
+1095,Sophie,Lewis,Independence,3/20/1996,Female,Asian,Not Hispanic or Latino,United States,4/5/2007,,,Treatment_Reasons,Latent TB Infection
+1095,Sophie,Lewis,Independence,3/20/1996,Female,Asian,Not Hispanic or Latino,United States,4/12/2007,,,Treatment_Reasons,Latent TB Infection
+1105,Benjamin,King,Jackson,8/27/1982,Male,African American / Black,Hispanic or Latino,United States,9/29/2002,,,Treatment_Reasons,Latent TB Infection
+1105,Benjamin,King,Jackson,8/27/1982,Male,African American / Black,Hispanic or Latino,United States,10/6/2002,,,Treatment_Reasons,Latent TB Infection
+1105,Benjamin,King,Jackson,8/27/1982,Male,African American / Black,Hispanic or Latino,United States,10/13/2002,,,Treatment_Reasons,Latent TB Infection
+1105,Benjamin,King,Jackson,8/27/1982,Male,African American / Black,Hispanic or Latino,United States,10/20/2002,,,Treatment_Reasons,Latent TB Infection
+1105,Benjamin,King,Jackson,8/27/1982,Male,African American / Black,Hispanic or Latino,United States,10/27/2002,,,Treatment_Reasons,Latent TB Infection
+1105,Benjamin,King,Jackson,8/27/1982,Male,African American / Black,Hispanic or Latino,United States,11/3/2002,,,Treatment_Reasons,Latent TB Infection
+1105,Benjamin,King,Jackson,8/27/1982,Male,African American / Black,Hispanic or Latino,United States,11/10/2002,,,Treatment_Reasons,Latent TB Infection
+1105,Benjamin,King,Jackson,8/27/1982,Male,African American / Black,Hispanic or Latino,United States,11/17/2002,,,Treatment_Reasons,Latent TB Infection
+1105,Benjamin,King,Jackson,8/27/1982,Male,African American / Black,Hispanic or Latino,United States,11/24/2002,,,Treatment_Reasons,Latent TB Infection
+1105,Benjamin,King,Jackson,8/27/1982,Male,African American / Black,Hispanic or Latino,United States,12/1/2002,,,Treatment_Reasons,Latent TB Infection
+1115,Layla,Walker,Phillips,4/11/1995,Female,Caucasian / White,Not Hispanic or Latino,New Zealand,3/30/2008,31-Jan,1984,Treatment_Reasons,Latent TB Infection
+1125,Elijah,Scott,Pope,6/2/1998,Male,Marshallese,Hispanic or Latino,United States,10/31/2002,,,Treatment_Reasons,Latent TB Infection
+1125,Elijah,Scott,Pope,6/2/1998,Male,Marshallese,Hispanic or Latino,United States,11/7/2002,,,Treatment_Reasons,Latent TB Infection
+1125,Elijah,Scott,Pope,6/2/1998,Male,Marshallese,Hispanic or Latino,United States,11/14/2002,,,Treatment_Reasons,Latent TB Infection
+1125,Elijah,Scott,Pope,6/2/1998,Male,Marshallese,Hispanic or Latino,United States,11/21/2002,,,Treatment_Reasons,Latent TB Infection
+1125,Elijah,Scott,Pope,6/2/1998,Male,Marshallese,Hispanic or Latino,United States,11/28/2002,,,Treatment_Reasons,Latent TB Infection
+1125,Elijah,Scott,Pope,6/2/1998,Male,Marshallese,Hispanic or Latino,United States,12/5/2002,,,Treatment_Reasons,Latent TB Infection
+1125,Elijah,Scott,Pope,6/2/1998,Male,Marshallese,Hispanic or Latino,United States,12/12/2002,,,Treatment_Reasons,Latent TB Infection
+1125,Elijah,Scott,Pope,6/2/1998,Male,Marshallese,Hispanic or Latino,United States,12/19/2002,,,Treatment_Reasons,Latent TB Infection
+1125,Elijah,Scott,Pope,6/2/1998,Male,Marshallese,Hispanic or Latino,United States,12/26/2002,,,Treatment_Reasons,Latent TB Infection
+1125,Elijah,Scott,Pope,6/2/1998,Male,Marshallese,Hispanic or Latino,United States,1/2/2003,,,Treatment_Reasons,Latent TB Infection
+1125,Elijah,Scott,Pope,6/2/1998,Male,Marshallese,Hispanic or Latino,United States,1/9/2003,,,Treatment_Reasons,Latent TB Infection
+1125,Elijah,Scott,Pope,6/2/1998,Male,Marshallese,Hispanic or Latino,United States,1/16/2003,,,Treatment_Reasons,Latent TB Infection
+1135,Hannah,Nelson,Monroe,1/19/1986,Female,Asian,Not Hispanic or Latino,United States,5/3/2005,,,Treatment_Reasons,Latent TB Infection

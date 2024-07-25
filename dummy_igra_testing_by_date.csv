@@ -1,0 +1,25 @@
+Dummy_Date_Ordered,Dummy_Patient_ID,Last.Name,First.Name,Address,City,County,Ethnicity,Race,Procedure.Code,Description,Status,Genderid
+7/3/1986,1,Dossett,Tiffany,P.O. Box 15,Alleene,Little River,Not Hispanic or Latino,White,86481,IGRA (adh),Reviewed,1
+11/28/1980,2,Kelley,Joseph,206 Wandering Way,Mountain Pine,Garland,Not Hispanic or Latino,White,86481,IGRA (adh),Reviewed,2
+4/18/1987,3,Castro,Miriam,2520 Persimmon Street,Springdale,Washington,Hispanic or Latino,White,86481,IGRA (adh),Reviewed,1
+11/12/1981,4,GonzalezMelendez,Maria,"1901 West Shady Grove Road, Lot D22",Springdale,Washington,Hispanic or Latino,White,86481,IGRA (adh),Reviewed,1
+5/14/1977,5,Carleton,Dee,Post Office Box 196,Flippin,Marion,Not Hispanic or Latino,White,86481,IGRA,Reviewed,1
+3/5/1987,6,LucasRivera,Yesenia,250 County Road 902 Lot 9,Green Forest,Carroll,Hispanic or Latino,White,86481,IGRA (adh),Reviewed,1
+4/9/1987,7,Chavez,Adela,2103 W Roslyn St,Rogers,Benton,Hispanic or Latino,White,86481,IGRA (adh),Reviewed,1
+9/5/1985,8,Riano,Karla,4114 Alabama Avenue,Fort Smith,Sebastian,Hispanic or Latino,White,86481,"IGRA (TB test, cell mediated immunity antigen response measu)",Reviewed,1
+10/5/1989,9,Wiley,Annette,1122 S Pope St Apt 64,Nashville,Howard,Not Hispanic or Latino,Black or African American,86481,IGRA (adh),Reviewed,1
+7/3/1982,9,Wiley,Annette,1122 S Pope St Apt 64,Nashville,Howard,Not Hispanic or Latino,Black or African American,86481,IGRA (adh),Reviewed,1
+1/12/1979,10,Collins,Joyce,208 S. 7th Street,Nashville,Howard,Not Hispanic or Latino,Black or African American,86481,IGRA,Reviewed,1
+7/29/1977,11,Tatum,Dondrick,312 S. Willow St.,Dumas,Desha,Not Hispanic or Latino,Black or African American,86481,IGRA (adh),Reviewed,2
+1/13/1990,12,White,Sorkeiss,7000 Lincoln Dr,Fort Worth,Tarrant,Not Hispanic or Latino,Black or African American,86481,IGRA (adh),Reviewed,2
+3/24/1976,13,Harris,Ashanti,537 Kentucky Street,West Helena,Phillips,Not Hispanic or Latino,Black or African American,86481,IGRA (adh),Reviewed,1
+11/27/1979,13,Harris,Ashanti,537 Kentucky Street,West Helena,Phillips,Not Hispanic or Latino,Black or African American,86481,IGRA (adh),Reviewed,1
+11/6/1979,14,Tamayo,Victoriano,2670 Orchard Hill Road,Siloam Springs,Benton,Not Hispanic or Latino,Asian,86481,IGRA (adh),Reviewed,2
+7/15/1983,14,Tamayo,Victoriano,2670 Orchard Hill Road,Siloam Springs,Benton,Not Hispanic or Latino,Asian,86481,IGRA (adh),Reviewed,2
+8/16/1986,15,Bandin,Archel Angelo,269 Abby Street,Waldron,Scott,Not Hispanic or Latino,Asian,86481,IGRA (adh),Reviewed,2
+4/19/1982,16,Kejlat,Jeffery,904 East Post Road,Rogers,Benton,Not Hispanic or Latino,Native Hawaiin or Other Pacific Islander,86481,IGRA (adh),Reviewed,2
+5/29/1989,17,Lang,Wine,914 Powell Street Apartment 101,Springdale,Washington,Not Hispanic or Latino,Marshallese,86481,IGRA (adh),Reviewed,1
+4/27/1987,18,Manuwai,Josephine,611 Ridgecrest,Pocahontas,Randolph,Not Hispanic or Latino,Marshallese,86481,IGRA (adh),Reviewed,1
+10/10/1981,19,Neamon,Susan,4442 Gulley Road,Fayetteville,Washington,Hispanic or Latino,Marshallese,86481,IGRA (adh),Reviewed,1
+5/3/1980,20,Lokot,Maka,770 South 40th Street #B104,Springdale,Washington,Unknown,Marshallese,86481,IGRA (adh),Reviewed,2
+5/3/1980,20,Lokot,Maka,770 South 40th Street #B104,Springdale,Washington,Not Hispanic or Latino,Marshallese,86481,IGRA (adh),Reviewed,2
